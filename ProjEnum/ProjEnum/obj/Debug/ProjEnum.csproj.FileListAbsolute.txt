@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\11-enum\ProjEnum\ProjEnum\bin\Debug\ProjEnum.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\11-enum\ProjEnum\ProjEnum\bin\Debug\ProjEnum.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\11-enum\ProjEnum\ProjEnum\bin\Debug\ProjEnum.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\11-enum\ProjEnum\ProjEnum\obj\Debug\ProjEnum.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\11-enum\ProjEnum\ProjEnum\obj\Debug\ProjEnum.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\11-enum\ProjEnum\ProjEnum\obj\Debug\ProjEnum.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\11-enum\ProjEnum\ProjEnum\obj\Debug\ProjEnum.pdb
